@@ -1,0 +1,13 @@
+{
+  "source": "actual merged AgentCanvas/controller/tldraw; explicit Clerk/Convex/theme/discovery fixture; no inference",
+  "before": {
+    "mounts": 2,
+    "unmounts": 1
+  },
+  "after": {
+    "mounts": 2,
+    "unmounts": 1,
+    "shapes": 1
+  },
+  "stable": true
+}
